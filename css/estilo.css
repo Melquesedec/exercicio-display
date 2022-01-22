@@ -1,0 +1,172 @@
+@charset "UTF-8";
+
+*{
+    padding: 0;
+    margin: 0;
+    background-color: black;
+}
+
+#geral{
+    display: flex;
+    justify-content: center;
+    margin: 20px;
+}
+
+#caixa{ 
+    background-color: black;
+    color: white;
+    border: solid 1px darkgrey;
+    border-radius: 10px;
+    width: 1000px;
+    height: 800px;
+}
+
+#caixa-um{
+    display: flex;
+    justify-content: center;
+    margin: 20px;
+}
+
+#um{
+    background-color: darkred;
+    justify-content: center;
+    align-items: center;
+    align-content: center;
+    display: flex;
+    width: 950px;
+    border-radius: 15px;
+    height: 30px;
+}
+
+
+#dois{
+    background-color: darkred;
+    justify-content: center;
+    align-items: center;
+    align-content: center;
+    display: flex;
+    width: 475px;
+    border-radius: 15px;
+    height: 30px;
+    margin: 5px;
+}
+
+#quatro{
+    background-color: darkred;
+    justify-content: center;
+    align-items: center;
+    align-content: center;
+    display: flex;
+    width: 317px;
+    border-radius: 15px;
+    height: 30px;
+    margin: 5px;
+}
+
+#cinco{
+    background-color: darkred;
+    justify-content: center;
+    align-items: center;
+    align-content: center;
+    display: flex;
+    width: 317px;
+    border-radius: 15px;
+    height: 30px;
+    margin: 5px;
+}
+
+#seis{
+    background-color: darkred;
+    justify-content: center;
+    align-items: center;
+    align-content: center;
+    display: flex;
+    width: 80px;
+    border-radius: 15px;
+    height: 30px;
+    margin: 5px;
+}
+
+#seis-meio{
+    background-color: darkred;
+    justify-content: center;
+    align-items: center;
+    align-content: center;
+    display: flex;
+    width: 920px;
+    border-radius: 15px;
+    height: 30px;
+    margin: 5px;
+}
+
+#sete{
+    background-color: darkred;
+    justify-content: center;
+    align-items: center;
+    align-content: center;
+    display: flex;
+    width: 150px;
+    border-radius: 15px;
+    height: 30px;
+    margin: 5px;
+}
+
+#sete-meio{
+    background-color: darkred;
+    justify-content: center;
+    align-items: center;
+    align-content: center;
+    display: flex;
+    width: 850px;
+    border-radius: 15px;
+    height: 30px;
+    margin: 5px;
+}
+
+#oito{
+    background-color: darkred;
+    justify-content: center;
+    align-items: center;
+    align-content: center;
+    display: flex;
+    width: 200px;
+    border-radius: 15px;
+    height: 30px;
+    margin: 5px;
+}
+
+#oito-meio{
+    background-color: darkred;
+    justify-content: center;
+    align-items: center;
+    align-content: center;
+    display: flex;
+    width: 800px;
+    border-radius: 15px;
+    height: 30px;
+    margin: 5px;
+}
+
+#nove{
+    background-color: darkred;
+    justify-content: center;
+    align-items: center;
+    align-content: center;
+    display: flex;
+    width: 300px;
+    border-radius: 15px;
+    height: 30px;
+    margin: 5px;
+}
+
+#nove-meio{
+    background-color: darkred;
+    justify-content: center;
+    align-items: center;
+    align-content: center;
+    display: flex;
+    width: 700px;
+    border-radius: 15px;
+    height: 30px;
+    margin: 5px;
+}
