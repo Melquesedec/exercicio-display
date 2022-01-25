@@ -21,7 +21,9 @@
     height: 70%;
 }
 
-#caixa :hover{
+#dois:hover, #um:hover, #quatro:hover, #cinco:hover, #seis:hover, #seis-meio:hover, #sete:hover, #sete-meio:hover, #oito:hover, #oito-meio:hover, #nove:hover, #nove-meio:hover,
+#dez:hover, #dez-meio:hover, #onze:hover, #onze-meio:hover {
+    background-color: blue;
 }
 
 #caixa-um{
